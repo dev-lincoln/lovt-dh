@@ -11,6 +11,6 @@
   <p>https://www.figma.com/file/sx1wvTbw3k8w31YYBfmdZp/Exercicio01</p>
   
 <h2>Hospedagem</h2>
-<p>GitHub Pages: 
+<p>GitHub Pages: https://dev-lincoln.github.io/lovt-dh/</p>
 
 
